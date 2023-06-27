@@ -63,4 +63,4 @@ async def News(ctx, *,topic):
     await ctx.send('{} \n {}'.format(news[i]['title'],news[i]['url']))
 
 keep_alive()
-bot.run('OTEzNjc2NjkyNjAwNTI0ODMx.YaB9ug.4mAOfNBeOIcXYXoWitQOCxsw3fQ')
+bot.run('')
